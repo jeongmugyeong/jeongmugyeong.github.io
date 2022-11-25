@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "jeongmugyeong"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "한글트위터 데이터 분석 보고서 사이트 입니다."
   location         : "Somewhere"
   email            :
   links:
